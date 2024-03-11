@@ -1,0 +1,123 @@
+.text{
+    background-color: black;
+    margin-top: 50px;
+}
+
+.topic{
+    font-size: 45px;
+    margin-left: 30px;
+    color: olivedrab;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: black
+}
+
+
+.info{
+    color: rgb(60, 234, 184);
+    font-size: 30px;
+    margin-left: 14px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    background-color: black
+}
+
+
+.add{
+    font-size: 30px;
+    margin-left: 16px;
+    margin-top:0px;
+    color: rgb(35, 106, 86);
+    background-color: black
+
+}
+
+.addd{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(152, 237, 213);
+    background-color: black
+}
+
+
+.lk{
+    background-color: rgba(35, 34, 34, 0.583);
+    height: 450px;
+    background-color: black;
+    margin-bottom: 0%;
+}
+
+
+.links{
+    font-size: 40px;
+    margin-left: 16px;
+    margin-top:0px;
+    color: rgb(240, 246, 63);
+    margin-bottom: 0px;
+    background-color: black
+
+}
+
+.link{
+    font-size: 30px;
+    color: rgb(243, 248, 114);
+    margin-left: 16px;
+    margin-top:0px;
+    background-color: black
+
+}
+
+.click{
+    height: 30px;
+    border-radius: 100px;
+    background-color: black
+}
+
+.fru{
+background-color: rgb(68, 68, 68);
+background-color: black
+}
+
+.frui{
+    color: rgb(23, 22, 22);
+    font-size: 50px;
+    margin-left: 14px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    background-color: black
+}
+
+.red{
+font-size: 25px;
+color: rgb(253, 253, 253);
+margin-left: ;
+background-color: black
+}
+
+.last{
+    background-color: gray;
+    height: 250px;
+    
+}
+
+.lastin{
+    margin-top: 35px;
+    text-align: center;
+    background-color: grey;
+    color: black;
+}
+.lastout{
+ text-align: center;
+ background-color: grey;
+ color: black;
+}
+
+.lastp{
+    margin-top: 90px;
+    margin-left: 20px;
+    background-color: grey;
+    color: black;
+    font-size: 20px;
+}
